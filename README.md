@@ -1,15 +1,5 @@
-# Unichat Application
+# Chatter Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+A chat application with social authentication via Google and Facebook.
 
-## Introduction
-
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
-
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
-
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
-
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+![images](https://user-images.githubusercontent.com/98520232/152677552-776f66e8-5f2d-4a2e-8247-04ffa02ba105.png)
